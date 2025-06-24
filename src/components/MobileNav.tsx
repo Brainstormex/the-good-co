@@ -67,7 +67,7 @@ export default function MobileNav({
               </p>
               <div className="flex justify-center gap-4">
                 <Link
-                  href="https://github.com/your-github-username"
+                  href="https://github.com/Brainstormex"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 hover:text-black transition-colors"
@@ -77,7 +77,7 @@ export default function MobileNav({
                   <span>GitHub</span>
                 </Link>
                 <Link
-                  href="https://your-portfolio-url.com"
+                  href="https://uzersayed.vercel.app"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 hover:text-black transition-colors"
