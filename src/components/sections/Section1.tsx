@@ -24,7 +24,7 @@ export default function Section1() {
               className="transform-gpu rounded-lg md:rounded-none overflow-hidden max-w-2xl lg:max-w-none"
             >
               <Image
-                src="/assets/images/goodbuy.jpg"
+                src="/assets/images/Goodbuy.jpg"
                 alt="Goodbye"
                 width={900}
                 height={1000}
